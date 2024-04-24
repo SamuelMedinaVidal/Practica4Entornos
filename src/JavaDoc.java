@@ -56,7 +56,7 @@ public class JavaDoc {
 
     /**
      * Inicializa un array de booleanos con el valor true.
-     * @param esPrimo El array de booleanos a inicializar.
+     * @param esPrimo En el array de booleanos a inicializar.
      */
     private static void inicializarArray(boolean[] esPrimo) {
         for (int i = 0; i < esPrimo.length; i++) {
